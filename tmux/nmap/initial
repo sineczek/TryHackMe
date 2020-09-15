@@ -1,0 +1,35 @@
+# Nmap 7.80 scan initiated Tue Sep 15 18:10:29 2020 as: nmap -sC -sV -vv -oN nmap/initial 10.10.121.209
+Nmap scan report for 10.10.121.209
+Host is up, received syn-ack (0.086s latency).
+Scanned at 2020-09-15 18:10:30 CEST for 11s
+Not shown: 998 closed ports
+Reason: 998 conn-refused
+PORT   STATE SERVICE REASON  VERSION
+22/tcp open  ssh     syn-ack OpenSSH 6.6.1p1 Ubuntu 2ubuntu2.10 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   1024 35:3f:6f:1b:18:c8:ad:08:e8:0b:b2:eb:1a:f0:bb:9c (DSA)
+| ssh-dss AAAAB3NzaC1kc3MAAACBAPoac4nslCNI/3AqZifam0R+3vHsBIWjW0eCP5HdiWJlsByvQxvl1xJsT02O+CNBDZorKKfRYSPqDRltIi5f5sjsFO+Bl05zdVJyDg2+Dcwqb2c6i6iCaene7H0vw3OoICdKtgB3IC/aKMET5XCL+D0N4Mto/qIQeFoItqCAcFoPAAAAFQDu+7eAdURqYMl3MEe/WpJjuRqMRQAAAIB8HYM+dgRPy501Qrz0TXJsyqFC51vu0z3hvj7fb7DnvQUUgx7GzznLEZHJWM7UJoNT1TLRTT1tXtXTDRi/7gKjS6hbaVWBjr3YGrL5CDZQ92nBtSp8X6AeEbc4OW3qX5gXzU5R/e37HrKLv0CJk9cGNLpqtp1QaDQtMueh/GcpTwAAAIEAzZW0l7Eg8TsNKnogXAf34W/MCrAljdC2W+dazCK/+JlRy3xRBvYbyHW+QSjPGQGIuWsrO/wYHaUEtZGJQyVxTZJiZBDTAWEupv6qQM1y45SV1P/LiWISh76qQoEbUqccPq0wJPFohKkazu1YvY5GCTuDPR2MTkCtfVHQsIzfoNk=
+|   2048 6c:f0:1b:ef:3a:fb:61:be:20:03:55:2f:29:c4:6c:89 (RSA)
+| ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCq4YdSb8J497ubF1m88dX4PqxnaU23YUsAkBn4SeqJjNJ0kyst7/5f3aYmljg4TxQ+rHdlsH6MNBMzKU24WcxsYnqDD5+P3bBrp6TwtnavLEWfJ+k3x7fiz5fQrq7tr9OWxY2XgFbJR/cf9lgK3HVGXRvHNt3N8zqmJBPs9vfqPGNVEDX9lBh+TTnOx8KGT570m5LK/Ng/8fH3HOYUKp5WaohhtUoqK7ESlBe4ts3UHwzskUlgTkb/1KzVHiz9Bq4XFb2y/Z5in279yG54l4uKG18HudKTPlc3fl4x620VSqkHFCeQfkoRu1Dg8HZjUjLepAYkZFyGUyLLtEBu45Hn
+|   256 90:b6:63:2a:58:9e:aa:16:c6:81:92:c9:a0:61:61:79 (ECDSA)
+| ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBL2Pn0QBBcyJDFofzm7qOH8UijBUCNnSenYjW71B6QlQtVxla+vD+0UQNk1CULL+tdO1kvziENA+c4tJEINCJVY=
+|   256 4a:37:e4:c0:e7:a0:74:2c:e0:85:c8:39:57:b6:1b:91 (ED25519)
+|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE4PXoVdTwwkZoN4YDAH1ocbNUO5mi7jpVrx3mhKvXnw
+80/tcp open  http    syn-ack Apache httpd 2.4.7 ((Ubuntu))
+| http-cookie-flags: 
+|   /: 
+|     PHPSESSID: 
+|_      httponly flag not set
+|_http-favicon: Unknown favicon MD5: 69C728902A3F1DF75CF9EAC73BD55556
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+| http-robots.txt: 1 disallowed entry 
+|_/
+|_http-server-header: Apache/2.4.7 (Ubuntu)
+| http-title: Login :: Damn Vulnerable Web Application (DVWA) v1.10 *Develop...
+|_Requested resource was login.php
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Sep 15 18:10:41 2020 -- 1 IP address (1 host up) scanned in 11.41 seconds
