@@ -4,8 +4,9 @@
 
 ---
 # Stats
-Join at: 
-Level: 5
+>Join at: 09.09.2020
+>Pro since: 12.09.2020
+Level: 8
 
 ## Rooms:
 ### Finished: 10 Rooms
@@ -20,8 +21,10 @@ Level: 5
 - Metasploit
 - [Vulnversity](https://github.com/sineczek/TryHackMe/tree/master/vulnversity)
 - [Web Fundamentals](https://github.com/sineczek/TryHackMe/tree/master/web_fundamentls)
-- [Google Dorking](https://github.com/sineczek/TryHackMe/tree/master/wgoogle_dorking)
-
+- [Google Dorking](https://github.com/sineczek/TryHackMe/tree/master/google_dorking)
+- [Linux Challenges](https://github.com/sineczek/TryHackMe/tree/master/linux_challenges)
+- [tmux](https://github.com/sineczek/TryHackMe/tree/master/tmux)
+- [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_privesc)
 ***
 
 ## Skills and Tools
@@ -33,6 +36,8 @@ Level: 5
 - Hydra
 - Enum4linux
 - JohnTheRipper (JTR)
+- tmux
+- msfvenom
 
 ***
 
@@ -43,7 +48,9 @@ Level: 5
 
 - Introduction to Research  
 	- Introductory Researching
-	- Google Dorking
+	- Google Dorking](https://github.com/sineczek/TryHackMe/tree/master/google_dorking)
 - Linux Fundamentals 
 	- Learn Linux
-	- 
+	- [Linux Challenges](https://github.com/sineczek/TryHackMe/tree/master/linux_challenges)
+	- tmux
+	- [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_privesc)

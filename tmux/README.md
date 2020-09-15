@@ -12,5 +12,5 @@ CTRL+B+D detach
 
 #cheat sheat
 <p align="center">
-  <img height="300" src="https://github.com/sineczek/TryHackMe/blob/master/tmux_cheatsheet.png">
+  <img height="300" src="https://github.com/sineczek/TryHackMe/blob/master/tmux/tmux_cheat_sheet.png">
 </p>
