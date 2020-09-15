@@ -5,8 +5,11 @@
 ---
 # Stats
 >Join at: 09.09.2020
+
 >Pro since: 12.09.2020
-Level: 8
+
+Level: 7
+Streak: 7 days
 
 ## Rooms:
 ### Finished: 10 Rooms
@@ -52,5 +55,5 @@ Level: 8
 - Linux Fundamentals 
 	- Learn Linux
 	- [Linux Challenges](https://github.com/sineczek/TryHackMe/tree/master/linux_challenges)
-	- tmux
+	- [tmux](https://github.com/sineczek/TryHackMe/tree/master/tmux)
 	- [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_privesc)
