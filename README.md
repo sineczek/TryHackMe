@@ -9,10 +9,10 @@
 >Pro since: 12.09.2020
 
 Level: 7
-Streak: 7 days
+Streak: 9 days
 
 ## Rooms:
-### Finished: 10 Rooms
+### Finished: 18 Rooms
 ***
 - Welcome
 - Nmap
@@ -30,6 +30,7 @@ Streak: 7 days
 - [tmux](https://github.com/sineczek/TryHackMe/tree/master/tmux)
 - [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_privesc)
 - [OWASP Juice Shop](https://github.com/sineczek/TryHackMe/tree/master/owaspjuiceshop)
+- [OWASP Top 10](https://github.com/sineczek/TryHackMe/tree/master/OWASP_top_10)
 
 ***
 
@@ -50,7 +51,7 @@ Streak: 7 days
 
 # Learning Paths: 
 
-## COMPLETE BEGINNER 
+## COMPLETE BEGINNER [64%]
 > Start: 13.09.2020 
 
 - Introduction to Research  
@@ -66,3 +67,4 @@ Streak: 7 days
 	- [Burp Suite](https://github.com/sineczek/TryHackMe/tree/master/burp_suite)
 	- [Vulnversity](https://github.com/sineczek/TryHackMe/tree/master/vulnversity)
 	- [OWASP Juice Shop](https://github.com/sineczek/TryHackMe/tree/master/owaspjuiceshop)
+	- [OWASP Top 10](https://github.com/sineczek/TryHackMe/tree/master/OWASP_top_10)
