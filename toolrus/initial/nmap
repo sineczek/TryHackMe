@@ -1,0 +1,33 @@
+# Nmap 7.80 scan initiated Fri Sep 18 16:18:08 2020 as: nmap -sC -sV -vv -oN initial/nmap 10.10.221.75
+Nmap scan report for 10.10.221.75
+Host is up, received syn-ack (0.061s latency).
+Scanned at 2020-09-18 16:18:08 CEST for 12s
+Not shown: 996 closed ports
+Reason: 996 conn-refused
+PORT     STATE SERVICE REASON  VERSION
+22/tcp   open  ssh     syn-ack OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   2048 b1:77:b0:24:6a:e3:be:da:d3:99:01:b6:9a:82:38:84 (RSA)
+| ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYHWNbZCvnkamftn4qc/ryYl6Rw8bYNCimKQ3JtRVj2rM2NesVjm1vF6X6M4bmM+ak0k+EWQHEGzmaai7OvXqU3SlyvRTQ+znkoY7EH+g42A02Yf5metvG5Bjq7hJyAztr9gOn/QmtZTQqRrlpqBccJaWepLdOYpWASMkFplJBjb2bu3aVWFA0lDRyrBE5JLhU37kVp+qpucWk9Vfg/ZFyLB7yGiroYtoVFRjRqd3Ate2CI6WRv3lzIbBq00293oAZ1KScO+WXg64OTw8smOWGFUUM/3CvJPVp2Syzdxtk2adqBx4BBLbOLc6zOfnYTCQQjom/buT1wsYcikUSkDOf
+|   256 1f:59:96:cd:75:09:44:31:65:85:43:f5:ab:04:25:32 (ECDSA)
+| ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBJwgjKw2y3zb2Dti0TtuMnlzfECUFNDnOMgBoWmaMfNnF29cP/PFg41HHvwkpojzxwD1pg6JEvK7r9zyRrbCDIQ=
+|   256 6a:58:8e:ce:b6:23:19:98:c2:c9:15:f0:ee:7e:88:7a (ED25519)
+|_ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO9JZSq92oCJeEv+1rDG0T92gEajq7j2G7fVZT2IBnXT
+80/tcp   open  http    syn-ack Apache httpd 2.4.18 ((Ubuntu))
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-server-header: Apache/2.4.18 (Ubuntu)
+|_http-title: Site doesn't have a title (text/html).
+1234/tcp open  http    syn-ack Apache Tomcat/Coyote JSP engine 1.1
+|_http-favicon: Apache Tomcat
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-server-header: Apache-Coyote/1.1
+|_http-title: Apache Tomcat/7.0.88
+8009/tcp open  ajp13   syn-ack Apache Jserv (Protocol v1.3)
+|_ajp-methods: Failed to get a valid response for the OPTION request
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Read data files from: /usr/bin/../share/nmap
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Fri Sep 18 16:18:20 2020 -- 1 IP address (1 host up) scanned in 12.63 seconds

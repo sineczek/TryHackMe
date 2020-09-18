@@ -9,7 +9,7 @@
 >Pro since: 12.09.2020
 
 Level: 7
-Streak: 9 days
+Streak: 10 days
 
 ## Rooms:
 ### Finished: 18 Rooms
@@ -31,6 +31,12 @@ Streak: 9 days
 - [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_privesc)
 - [OWASP Juice Shop](https://github.com/sineczek/TryHackMe/tree/master/owaspjuiceshop)
 - [OWASP Top 10](https://github.com/sineczek/TryHackMe/tree/master/OWASP_top_10)
+- [ToolRus](https://github.com/sineczek/TryHackMe/tree/master/toolrus)
+- [Web Scanning](https://github.com/sineczek/TryHackMe/tree/master/web_scanning)
+- [Nessus](https://github.com/sineczek/TryHackMe/tree/master/nessus)
+
+
+
 
 ***
 
@@ -46,12 +52,15 @@ Streak: 9 days
 - tmux
 - msfvenom
 - [rustscan](https://github.com/sineczek/TryHackMe/tree/master/rustscan)
+- [Nikto](https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/)
+- Zap
+- Nessus
 
 ***
 
 # Learning Paths: 
 
-## COMPLETE BEGINNER [64%]
+## COMPLETE BEGINNER [65%]
 > Start: 13.09.2020 
 
 - Introduction to Research  
@@ -68,3 +77,10 @@ Streak: 9 days
 	- [Vulnversity](https://github.com/sineczek/TryHackMe/tree/master/vulnversity)
 	- [OWASP Juice Shop](https://github.com/sineczek/TryHackMe/tree/master/owaspjuiceshop)
 	- [OWASP Top 10](https://github.com/sineczek/TryHackMe/tree/master/OWASP_top_10)
+	- [ToolRus](https://github.com/sineczek/TryHackMe/tree/master/toolrus)
+	- [Web Scanning](https://github.com/sineczek/TryHackMe/tree/master/web_scanning)
+	- [Nessus](https://github.com/sineczek/TryHackMe/tree/master/nessus)
+
+
+# MISC:
+>	18.09.2020 succesfully resize root partition! 
