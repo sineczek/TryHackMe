@@ -34,7 +34,9 @@ Streak: 11 days
 - [ToolRus](https://github.com/sineczek/TryHackMe/tree/master/toolrus)
 - [Web Scanning](https://github.com/sineczek/TryHackMe/tree/master/web_scanning)
 - [Nessus](https://github.com/sineczek/TryHackMe/tree/master/nessus)
-
+- [Introductory Networking](https://github.com/sineczek/TryHackMe/tree/master/introductory_networking)
+- [Networking](https://github.com/sineczek/TryHackMe/tree/master/networking)
+- [Network Service](https://github.com/sineczek/TryHackMe/tree/master/network_services)
 
 
 
@@ -60,7 +62,7 @@ Streak: 11 days
 
 # Learning Paths: 
 
-## COMPLETE BEGINNER [65%]
+## COMPLETE BEGINNER [92%]
 > Start: 13.09.2020 
 
 - Introduction to Research  
@@ -82,6 +84,17 @@ Streak: 11 days
 	- [Nessus](https://github.com/sineczek/TryHackMe/tree/master/nessus)
 - Network Security 
 	- [Introductory Networking](https://github.com/sineczek/TryHackMe/tree/master/introductory_networking)
+	- [Networking](https://github.com/sineczek/TryHackMe/tree/master/networking)
+	- Nmap
+	- [Network Service](https://github.com/sineczek/TryHackMe/tree/master/network_services)
+	- Metasploit
+	- [Blue](https://github.com/sineczek/TryHackMe/tree/master/blue)
+- Scripting
+	-
+	-
+- Cryptography
+
+
 
 
 
