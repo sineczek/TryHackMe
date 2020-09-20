@@ -8,8 +8,8 @@
 
 >Pro since: 12.09.2020
 
-Level: 7
-Streak: 10 days
+Level: 8
+Streak: 11 days
 
 ## Rooms:
 ### Finished: 18 Rooms
@@ -80,7 +80,10 @@ Streak: 10 days
 	- [ToolRus](https://github.com/sineczek/TryHackMe/tree/master/toolrus)
 	- [Web Scanning](https://github.com/sineczek/TryHackMe/tree/master/web_scanning)
 	- [Nessus](https://github.com/sineczek/TryHackMe/tree/master/nessus)
+- Network Security 
+	- [Introductory Networking](https://github.com/sineczek/TryHackMe/tree/master/introductory_networking)
+
 
 
 # MISC:
->	18.09.2020 succesfully resize root partition! 
+>	18.09.2020 succesfully resize root partition
