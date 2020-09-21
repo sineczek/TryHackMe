@@ -1,32 +1,20 @@
+#!/usr/bin/env python #use first installed version of python
+
 from base64 import *
 
-f = open("encodedflag.txt", "r")
+flag = open("encodedflag.txt", "r")
+result = flag.read()
 
-
-
-flag = f.read()
-
-result = ''
-
-#5 times 16
 for i in range(0,5):
-	result = b64decode(flag)
-flag = result;
+        result = b64decode(result)
 
-
-#5 times 32
 for i in range(0,5):
-	result = b32decode(flag)
-flag = result;
+        result = b32decode(result)
 
-
-#5 times 64
 for i in range(0,5):
-	result = b16decode(flag)
-flag = result;
+        result = b16decode(result)
 
-print(result);
 
-f.close();
-
+flag.close()
+print(result)
 

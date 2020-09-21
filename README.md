@@ -66,7 +66,7 @@ Rank: 5117 (20.09.2020)
 
 # Learning Paths: 
 
-## COMPLETE BEGINNER [92%]
+## COMPLETE BEGINNER [95%]
 > Start: 13.09.2020 
 
 - Introduction to Research  
@@ -95,7 +95,7 @@ Rank: 5117 (20.09.2020)
 	- [Blue](https://github.com/sineczek/TryHackMe/tree/master/blue)
 - Scripting
 	- [Intro to Python](https://github.com/sineczek/TryHackMe/tree/master/intro_to_python)
-	-
+	- [Scripting](https://github.com/sineczek/TryHackMe/tree/master/scipting)
 - Cryptography
 
 
