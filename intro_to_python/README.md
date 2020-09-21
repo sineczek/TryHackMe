@@ -76,3 +76,20 @@ Special Read + Write  		r+					This mode has the ability to read and write to fi
 open_readme.py
 
 `print(file.readline())` will print just one line
+
+------------ Virtual Enviroment ---------------
+
+`virtualenv --python=python3 introduction`
+creates virtual env. using python3 version with "introduction" name
+
+`source introduction/bin/activate`
+activating virtual env.
+
+`deactivate` 
+to exit virtual env.
+
+---------
+
+
+
+

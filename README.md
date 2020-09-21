@@ -9,13 +9,13 @@
 >Pro since: 12.09.2020
 
 Level: 8
-Streak: 12 days
+Streak: 13 days
 -------
 Rank: 5117 (20.09.2020)
 -------
 
 ## Rooms:
-### Finished: 24 Rooms
+### Finished: 25 Rooms
 ***
 - Welcome
 - Welcome
@@ -94,7 +94,7 @@ Rank: 5117 (20.09.2020)
 	- Metasploit
 	- [Blue](https://github.com/sineczek/TryHackMe/tree/master/blue)
 - Scripting
-	-
+	- [Intro to Python](https://github.com/sineczek/TryHackMe/tree/master/intro_to_python)
 	-
 - Cryptography
 
