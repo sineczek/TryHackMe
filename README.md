@@ -9,11 +9,15 @@
 >Pro since: 12.09.2020
 
 Level: 8
-Streak: 11 days
+Streak: 12 days
+-------
+Rank: 5117 (20.09.2020)
+-------
 
 ## Rooms:
-### Finished: 18 Rooms
+### Finished: 24 Rooms
 ***
+- Welcome
 - Welcome
 - Nmap
 - Introductory Researching
@@ -67,7 +71,7 @@ Streak: 11 days
 
 - Introduction to Research  
 	- Introductory Researching
-	- Google Dorking](https://github.com/sineczek/TryHackMe/tree/master/google_dorking)
+	- [Google Dorking](https://github.com/sineczek/TryHackMe/tree/master/google_dorking)
 - Linux Fundamentals 
 	- Learn Linux
 	- [Linux Challenges](https://github.com/sineczek/TryHackMe/tree/master/linux_challenges)
