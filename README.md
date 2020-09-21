@@ -95,7 +95,7 @@ Rank: 5117 (20.09.2020)
 	- [Blue](https://github.com/sineczek/TryHackMe/tree/master/blue)
 - Scripting
 	- [Intro to Python](https://github.com/sineczek/TryHackMe/tree/master/intro_to_python)
-	- [Scripting](https://github.com/sineczek/TryHackMe/tree/master/scipting)
+	- [Scripting](https://github.com/sineczek/TryHackMe/tree/master/scipting) WAY TOO DIFFICULT FOR BEGINNERS PATH!
 - Cryptography
 
 
