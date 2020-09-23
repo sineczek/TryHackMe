@@ -9,13 +9,13 @@
 >Pro since: 12.09.2020
 
 Level: 8
-Streak: 13 days
+Streak: 15 days
 -------
 Rank: 5117 (20.09.2020)
 -------
 
 ## Rooms:
-### Finished: 25 Rooms
+### Finished: 28 Rooms
 ***
 - Welcome
 - Welcome
@@ -28,11 +28,11 @@ Rank: 5117 (20.09.2020)
 - Metasploit
 - [Vulnversity](https://github.com/sineczek/TryHackMe/tree/master/vulnversity)
 - [Burp Suite](https://github.com/sineczek/TryHackMe/tree/master/burp_suite)
-- [Web Fundamentals](https://github.com/sineczek/TryHackMe/tree/master/web_fundamentls)
+- [Web Fundamentals](https://github.com/sineczek/TryHackMe/tree/master/web_fundamentals)
 - [Google Dorking](https://github.com/sineczek/TryHackMe/tree/master/google_dorking)
 - [Linux Challenges](https://github.com/sineczek/TryHackMe/tree/master/linux_challenges)
 - [tmux](https://github.com/sineczek/TryHackMe/tree/master/tmux)
-- [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_privesc)
+- [Common Linux Privesc](https://github.com/sineczek/TryHackMe/tree/master/common_linux_provesc)
 - [OWASP Juice Shop](https://github.com/sineczek/TryHackMe/tree/master/owaspjuiceshop)
 - [OWASP Top 10](https://github.com/sineczek/TryHackMe/tree/master/OWASP_top_10)
 - [ToolRus](https://github.com/sineczek/TryHackMe/tree/master/toolrus)
@@ -41,26 +41,10 @@ Rank: 5117 (20.09.2020)
 - [Introductory Networking](https://github.com/sineczek/TryHackMe/tree/master/introductory_networking)
 - [Networking](https://github.com/sineczek/TryHackMe/tree/master/networking)
 - [Network Service](https://github.com/sineczek/TryHackMe/tree/master/network_services)
+- [CC Pen Testing](https://github.com/sineczek/TryHackMe/tree/master/cc_pentesting)
+- [Intro to Python](https://github.com/sineczek/TryHackMe/tree/master/intro_to_python)
+- [Scripting](https://github.com/sineczek/TryHackMe/tree/master/scipting) 
 
-
-
-***
-
-## Skills and Tools
-- nmap
-- gobuster / dirbuster
-- Metasploit
-- linPEAS
-- [Burp Suite](https://github.com/sineczek/TryHackMe/tree/master/burp_suite)
-- Hydra
-- Enum4linux
-- JohnTheRipper (JTR)
-- tmux
-- msfvenom
-- [rustscan](https://github.com/sineczek/TryHackMe/tree/master/rustscan)
-- [Nikto](https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/)
-- Zap
-- Nessus
 
 ***
 
@@ -97,10 +81,31 @@ Rank: 5117 (20.09.2020)
 	- [Intro to Python](https://github.com/sineczek/TryHackMe/tree/master/intro_to_python)
 	- [Scripting](https://github.com/sineczek/TryHackMe/tree/master/scipting) WAY TOO DIFFICULT FOR BEGINNERS PATH!
 - Cryptography
+	- [Encryption - Crypto 101](https://github.com/sineczek/TryHackMe/tree/master/encryption101)
 
 
 
+***
+
+## Skills and Tools
+- nmap
+- gobuster / dirbuster
+- Metasploit
+- linPEAS
+- [Burp Suite](https://github.com/sineczek/TryHackMe/tree/master/burp_suite)
+- Hydra
+- Enum4linux
+- JohnTheRipper (JTR)
+- tmux
+- msfvenom
+- [rustscan](https://github.com/sineczek/TryHackMe/tree/master/rustscan)
+- [Nikto](https://redteamtutorials.com/2018/10/24/nikto-cheatsheet/)
+- Zap
+- Nessus
+- smbmap
+- sqlmap
 
 
 # MISC:
 >	18.09.2020 succesfully resize root partition
+	23.09.2020 succesfully disto update
