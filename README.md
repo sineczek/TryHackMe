@@ -1,7 +1,7 @@
 # [TryHackMe.com](http://tryhackme.com)
 
 <p align="center">
-  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/Screenshot%202020-09-26%2016%3A41%3A16.png">
+  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/profile.png">
 </p>
 
 # *Stats*
@@ -14,8 +14,8 @@
 #### Rank: 5117 (20.09.2020)
 -------
 
-1. [Completed Rooms.](https://github.com/sineczek/TryHackMe/blob/master/rooms.md)
-2. [Learning Paths.](https://github.com/sineczek/TryHackMe/blob/master/learningpaths.md)
+1. [Completed Rooms.](https://github.com/sineczek/TryHackMe/blob/master/rooms/rooms.md)
+2. [Learning Paths.](https://github.com/sineczek/TryHackMe/blob/master/roomslearningpaths.md)
 
 
 
@@ -24,4 +24,5 @@
 -----------------
 # MISC:
 >	18.09.2020 succesfully resize root partition
-	23.09.2020 succesfully disto update
+
+>	23.09.2020 succesfully disto update
