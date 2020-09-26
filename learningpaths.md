@@ -1,8 +1,19 @@
 # Learning Paths
 -----------------
 
+<p align="center">
+  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/Screenshot%202020-09-26%2016%3A44%3A04.png">
+</p>
+
+
+
 ## COMPLETE BEGINNER [100%]
+<p align="center">
+  <img width="800" src="https://raw.githubusercontent.com/sineczek/TryHackMe/master/images/Screenshot%202020-09-26%2016%3A02%3A04.png">
+</p>
+
 > Started: 13.09.2020 
+
 > Finished: 25.09.2020
 
 - Introduction to Research  
@@ -35,3 +46,22 @@
 - Cryptography
 	- [Encryption - Crypto 101](https://github.com/sineczek/TryHackMe/tree/master/encryption101)
 	- Hashing - Crypto 101
+
+## Web Fundmentals [54%]
+<p align="center">
+  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/Screenshot%202020-09-26%2017%3A03%3A03.png">
+</p>
+
+> Started: 26.09.2020 
+
+> Finished: TBD
+
+- Web Fundamentals
+	- [Introductory Networking](https://github.com/sineczek/TryHackMe/tree/master/introductory_networking)
+	- [Web Fundamentals](https://github.com/sineczek/TryHackMe/tree/master/web_fundamentals)
+	- [Introduction to Django](https://github.com/sineczek/TryHackMe/tree/master/introduction_to_django)
+- Security Tools
+
+- Vulnerabilities
+
+- Practice Makes Perfect
