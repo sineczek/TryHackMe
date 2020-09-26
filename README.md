@@ -1,7 +1,7 @@
 # [TryHackMe.com](http://tryhackme.com)
 
 <p align="center">
-  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/profile.png">
+  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/images/profile.png">
 </p>
 
 # *Stats*

@@ -2,7 +2,7 @@
 -----------------
 
 <p align="center">
-  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/paths.png">
+  <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/images/paths.png">
 </p>
 
 
