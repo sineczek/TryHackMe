@@ -36,6 +36,7 @@
 - Hashing - Crypto 101
 - [Hydra](https://github.com/sineczek/TryHackMe/tree/master/rooms/hydra)
 - [Introduction to Django](https://github.com/sineczek/TryHackMe/tree/master/rooms/introduction_to_django)
+- [Introduction to OWASP ZAP](https://github.com/sineczek/TryHackMe/tree/master/rooms/owasp_zap)
 
 
 
