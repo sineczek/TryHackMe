@@ -10,8 +10,9 @@
 >*Subscriber since: 12.09.2020*
 
 #### Level: 8
-#### Streak: 18 days
-#### Rank: 5117 (20.09.2020)
+#### Streak: 20 days
+#### Rank:	3586 (28.09.2020) 
+			5117 (20.09.2020) 
 -------
 
 1. [Completed Rooms.](https://github.com/sineczek/TryHackMe/blob/master/rooms/rooms.md)

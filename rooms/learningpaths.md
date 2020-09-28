@@ -47,7 +47,7 @@
 	- [Encryption - Crypto 101](https://github.com/sineczek/TryHackMe/tree/master/rooms/encryption101)
 	- Hashing - Crypto 101
 
-## Web Fundmentals [57%]
+## Web Fundmentals [64%]
 <p align="center">
   <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/webfundmentals.png">
 </p>
@@ -65,7 +65,8 @@
 	- [Introduction to OWASP ZAP](https://github.com/sineczek/TryHackMe/tree/master/rooms/owasp_zap)
 
 - Vulnerabilities
-
+	- [LFI](https://github.com/sineczek/TryHackMe/tree/master/rooms/lfi)
+	- [Authenticate](https://github.com/sineczek/TryHackMe/tree/master/rooms/authenticate)
 - Practice Makes Perfect
 
 
