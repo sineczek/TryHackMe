@@ -40,8 +40,7 @@
 - [LFI](https://github.com/sineczek/TryHackMe/tree/master/rooms/lfi)
 - [Authenticate](https://github.com/sineczek/TryHackMe/tree/master/rooms/authenticate)
 - [Inclusion](https://github.com/sineczek/TryHackMe/tree/master/rooms/inclusion)
-
-
+- [XXC](https://github.com/sineczek/TryHackMe/tree/master/rooms/xxc)
 
 ---------------
 [Go Back](https://github.com/sineczek/TryHackMe)

@@ -47,7 +47,7 @@
 	- [Encryption - Crypto 101](https://github.com/sineczek/TryHackMe/tree/master/rooms/encryption101)
 	- Hashing - Crypto 101
 
-## Web Fundmentals [64%]
+## Web Fundmentals [71%]
 <p align="center">
   <img width="800" src="https://github.com/sineczek/TryHackMe/blob/master/iamges/webfundmentals.png">
 </p>
@@ -67,6 +67,8 @@
 - Vulnerabilities
 	- [LFI](https://github.com/sineczek/TryHackMe/tree/master/rooms/lfi)
 	- [Authenticate](https://github.com/sineczek/TryHackMe/tree/master/rooms/authenticate)
+	- [XXC](https://github.com/sineczek/TryHackMe/tree/master/rooms/xxc)
+
 - Practice Makes Perfect
 
 
