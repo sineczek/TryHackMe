@@ -10,7 +10,7 @@
 >*Subscriber since: 12.09.2020*
 
 #### Level: 8
-#### Streak: 23 days
+#### Streak: 26 days
 #### Rank:	3586 (28.09.2020) 
 			5117 (20.09.2020) 
 -------

@@ -1,7 +1,7 @@
 # Cross-site Scripting (XSS)
-# Data: 30.09.2020, 01.10.2020
+# Data: 30.09.2020, 01.10.2020, 02.10.2020
 
-IP:`10.10.40.163`, `10.10.178.200`, `10.10.82.40`
+IP:`10.10.40.163`, `10.10.178.200`, `10.10.82.40`, `10.10.178.241`
 ------------------
 
 register on www
@@ -29,5 +29,7 @@ register on www
 	- test" onmouseover="document.body.style.backgroundColor = 'red'
 
 
+4. Filter evasion
 
+	- 
 

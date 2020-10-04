@@ -41,6 +41,6 @@
 - [Authenticate](https://github.com/sineczek/TryHackMe/tree/master/rooms/authenticate)
 - [Inclusion](https://github.com/sineczek/TryHackMe/tree/master/rooms/inclusion)
 - [XXC](https://github.com/sineczek/TryHackMe/tree/master/rooms/xxc)
-
+- [ZTH: Obscure Web Vulns](https://github.com/sineczek/TryHackMe/tree/master/rooms/zth_obscure_web_vulns) - in progress
 ---------------
 [Go Back](https://github.com/sineczek/TryHackMe)
