@@ -81,4 +81,12 @@ ImportError: No module named yaml
 luckly i found flag online ...
 
 
+## CSRF - Cross Site Request Forgery
+IP:``
+
+install xsrfprobe: `pip3 install xsrfprobe`
+to run: `/home/$USER$/.local/bin/xsrfprobe`
+
+
+
 
